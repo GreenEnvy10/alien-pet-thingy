@@ -1,0 +1,1 @@
+nameplate.ENTITY:setPos(vec(0, 0.3, 0))
